@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Deniss</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eeetem&theme=onedark" alt="eeetem" /></a> </p>
 
